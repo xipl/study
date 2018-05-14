@@ -1,2 +1,2 @@
 # study
-repo for shit
+repo for study
